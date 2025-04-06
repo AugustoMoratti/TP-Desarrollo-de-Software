@@ -25,10 +25,9 @@ Nuestra propuesta se basa en una aplicacion online que logre conectar dos person
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Ubicacion<br/>2. CRUD Profesion<br/>3. CRUD Asignacion<br/>5. CRUD Administrador|
-|CRUD dependiente|1. CRUD Reseña * *{depende de}* * CRUD Profesional<br/>2. CRUD Cliente {depende de} CRUD Ubicacion<br/>3. CRUD Profesional {depende de} CRUD Ubicacion<br/> 4. CRUD Pago {depende de} Asignacion<br/>5. CRUD Solicitud {depende de} Profesion |
+|CRUD simple|1. CRUD Ubicacion<br/>2. CRUD Profesion<br/>3. CRUD Asignacion<br/>4. CRUD Administrador|
+|CRUD dependiente|1. CRUD Reseña *{depende de}* CRUD Profesional<br/>2. CRUD Cliente *{depende de}* CRUD Ubicacion<br/>3. CRUD Profesional *{depende de}* CRUD Ubicacion<br/> 4. CRUD Pago *{depende de}* Asignacion<br/>5. CRUD Solicitud {depende de} Profesion |
 |Listado + detalle||
 |CUU/Epic||
 
-<font color="#607ec9">Dudas<font/>: CRUD 5 CALENDARIO
-
+### ***DUDAS***: CRUD 5 CALENDARIO
