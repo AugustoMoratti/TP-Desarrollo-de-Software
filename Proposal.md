@@ -7,6 +7,8 @@
 * Bertuccelli, Valentin - 52809
 
 ### Repositorios
+[BackEnd](https://github.com/AugustoMoratti/TP-Desarrollo-de-Software/tree/main/Backend).
+[FrontEnd](https://github.com/AugustoMoratti/TP-Desarrollo-de-Software/tree/main/Frontend).
 
 ## Tema
 
