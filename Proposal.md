@@ -26,8 +26,10 @@ Regularidad:
 |Req|Detalle|
 |:-|:-|
 |CRUD simple|1. CRUD Ubicacion<br/>2. CRUD Profesion<br/>3. CRUD Asignacion<br/>4. CRUD Administrador|
-|CRUD dependiente|1. CRUD Reseña *{depende de}* CRUD Profesional<br/>2. CRUD Cliente *{depende de}* CRUD Ubicacion<br/>3. CRUD Profesional *{depende de}* CRUD Ubicacion<br/> 4. CRUD Pago *{depende de}* Asignacion<br/>5. CRUD Solicitud {depende de} Profesion |
+|CRUD dependiente|1. CRUD Reseña ***{depende de}*** CRUD Profesional<br/>2. CRUD Cliente ***{depende de}*** CRUD Ubicacion<br/>3. CRUD Profesional ***{depende de}*** CRUD Ubicacion<br/> 4. CRUD Pago ***{depende de}*** Asignacion<br/>5. CRUD Solicitud ***{depende de}*** Profesion |
 |Listado + detalle||
 |CUU/Epic||
 
-### ***DUDAS***: CRUD 5 CALENDARIO
+### ***DUDAS***: 
+
+* CRUD 5 CALENDARIO
