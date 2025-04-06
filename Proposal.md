@@ -31,4 +31,4 @@ Regularidad:
 |CUU/Epic||
 
 <font color="#607ec9">Dudas<font/>: CRUD 5 CALENDARIO
-<span style="color: red;">Este texto es rojo.</span>
+
