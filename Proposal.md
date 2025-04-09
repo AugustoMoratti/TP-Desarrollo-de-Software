@@ -25,11 +25,13 @@ Nuestra propuesta se basa en una aplicacion online que logre conectar dos person
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Ubicacion<br/>2. CRUD Profesion<br/>3. CRUD Asignacion<br/>4. CRUD Administrador|
-|CRUD dependiente|1. CRUD Reseña *{depende de}* CRUD Profesional<br/>2. CRUD Cliente *{depende de}* CRUD Ubicacion<br/>3. CRUD Profesional *{depende de}* CRUD Ubicacion<br/> 4. CRUD Pago *{depende de}* Asignacion<br/>5. CRUD Solicitud {depende de} Profesion |
-|Listado + detalle|1. CRUD Reseña => <br/>2. CRUD Cliente => <br/>3. CRUD Profesional => <br/> 4. CRUD Pago => <br/>5. CRUD Solicitud => |
-|CUU/Epic||
+|CRUD simple|1. CRUD Provincia<br/>2. CRUD Profesion<br/> |
+|CRUD dependiente|1. CRUD Perfil *{depende de}* CRUD Ubicacion y Profesion<br/>2. CRUD Localidad *{depende de}* CRUD Provincia<br/>|
+|Listado + detalle||
+|CUU/Epic|1. CRUD Solicitud<br/>2. CRUD Aceptar/Rechazar solicitud|
 
-### ***DUDAS***: 
-
-* CRUD 5 CALENDARIO
+Adicional para Aprobación:
+|Req|Detalle|
+|:-|:-|
+|CRUD ||
+|CUU/Epic|1. Pago<br>2. Solicitar profesion<br>3. Reseña<br/>4. Agendar|
