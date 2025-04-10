@@ -26,7 +26,7 @@ Regularidad:
 |Req|Detalle|
 |:-|:-|
 |CRUD simple|1. CRUD Provincia<br/>2. CRUD Profesion<br/> |
-|CRUD dependiente|1. CRUD Perfil *{depende de}* CRUD Ubicacion y Profesion<br/>2. CRUD Localidad *{depende de}* CRUD Provincia<br/>|
+|CRUD dependiente|1. CRUD Perfil *{depende de}* CRUD Provincia y Profesion<br/>2. CRUD Localidad *{depende de}* CRUD Provincia<br/>|
 |Listado + detalle||
 |CUU/Epic|1. CRUD Solicitud<br/>2. CRUD Aceptar/Rechazar solicitud|
 
