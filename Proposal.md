@@ -27,7 +27,7 @@ Regularidad:
 |:-|:-|
 |CRUD simple|1. CRUD Provincia<br/>2. CRUD Profesion<br/> |
 |CRUD dependiente|1. CRUD Perfil *{depende de}* CRUD Provincia y Profesion<br/>2. CRUD Localidad *{depende de}* CRUD Provincia<br/>|
-|Listado + detalle||
+|Listado + detalle|1. Listado de perfiles filtrado por Profesion, Localidad, Provincia Y Valoracion, muestra Nombre y Valoracion => detalle CRUD Perfil<br/>2. Listado de Profesion => detalle CRUD Profesion |
 |CUU/Epic|1. CRUD Solicitud<br/>2. CRUD Aceptar/Rechazar solicitud|
 
 Adicional para Aprobación:
