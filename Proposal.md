@@ -34,4 +34,4 @@ Adicional para Aprobación:
 |Req|Detalle|
 |:-|:-|
 |CRUD ||
-|CUU/Epic|1. Pago<br>2. Solicitar profesion<br>3. Reseña<br/>4. Agendar|
+|CUU/Epic|1. Realziar pago<br>2. Solicitar profesion<br>3. Realizar reseña<br/>4. Agendar trabajo (pregunta)|
