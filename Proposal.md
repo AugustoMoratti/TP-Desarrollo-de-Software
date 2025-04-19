@@ -28,10 +28,10 @@ Regularidad:
 |CRUD simple|1. CRUD Provincia<br/>2. CRUD Profesion<br/> |
 |CRUD dependiente|1. CRUD Perfil *{depende de}* CRUD Provincia y Profesion<br/>2. CRUD Localidad *{depende de}* CRUD Provincia<br/>|
 |Listado + detalle|1. Listado de perfiles filtrado por Profesion, Localidad, Provincia Y Valoracion, muestra Nombre y Valoracion => detalle CRUD Perfil<br/>2. Listado de Profesion, muestra Nombre => detalle CRUD Profesion |
-|CUU/Epic|1. Realizar Solicitud<br/>2. Tomar solicitud|
+|CUU/Epic|1. Realizar Solicitud de trabajo<br/>2. Aceptar solicitud de trabajo|
 
 Adicional para Aprobación:
 |Req|Detalle|
 |:-|:-|
-|CRUD ||
+|CRUD |1. CRUD Provincia<br/>2. CRUD Profesion<br/>3. CRUD Perfil<br/>4. CRUD Localidad<br/>5. CRUD Administrador<br/>6. CRUD Calendario (charlar) |
 |CUU/Epic|1. Realziar pago<br>2. Solicitar nueva profesion<br>3. Realizar reseña<br/>4. Agendar trabajo (pregunta)|
