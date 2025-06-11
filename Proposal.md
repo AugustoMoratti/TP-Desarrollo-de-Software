@@ -34,5 +34,5 @@ Regularidad:
 Adicional para Aprobación:
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Provincia<br/>2. CRUD Profesion<br/>3. CRUD Perfil<br/>4. CRUD Localidad<br/>5. CRUD Administrador<br/>6. CRUD Calendario (charlar) |
-|CUU/Epic|1. Realziar pago<br>2. Solicitar nueva profesion<br>3. Realizar reseña<br/>4. Agendar trabajo (pregunta)|
+|CRUD |1. CRUD Provincia<br/>2. CRUD Profesion<br/>3. CRUD Perfil<br/>4. CRUD Localidad<br/>5. CRUD Administrador<br/>6. CRUD Calendario|
+|CUU/Epic|1. Realziar pago<br>2. Solicitar nueva profesion<br>3. Realizar reseña<br/>4. Agendar trabajo|
